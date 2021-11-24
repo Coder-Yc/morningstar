@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c3bab2a-a8f1-4efb-ad06-571110c76997" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JupyterTrust" id="f1ba344b-f5bc-4e9c-94a9-bbe874805411" />
+  <component name="ProjectId" id="1shg5OEiNnkD7PSwwi43n5BE3YB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../../GetMorningStarDataClass_vs1.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/result" />
+      <recent name="$PROJECT_DIR$/util" />
+      <recent name="$PROJECT_DIR$/RawData" />
+      <recent name="$PROJECT_DIR$/RawData/TSX" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\兼职\入职\non-financial\non-financial_v1.0_clean\QCReport" />
+      <recent name="F:\兼职\入职\non-financial\non-financial_v1.0_clean\Calculate" />
+      <recent name="F:\兼职\入职\non-financial\non-financial_v1.0_clean" />
+      <recent name="F:\兼职\入职\non-financial\non-financial_v1.0_clean\util" />
+      <recent name="F:\兼职\入职\non-financial\non-financial_v1.0_clean\master" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.03.Calculate">
+    <configuration name="00.URLSet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="morningstar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00.URLSet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01.Download" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="morningstar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Download.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02.QC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="morningstar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02.QC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03.Calculate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="morningstar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Calculate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05.Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="non-financial_vs1.0_clean" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/test/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.Sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="non-financial_vs1.0_clean" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.03.Calculate" />
+        <item itemvalue="Python.00.URLSet" />
+        <item itemvalue="Python.02.QC" />
+        <item itemvalue="Python.01.Download" />
+        <item itemvalue="Python.05.Sum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c3bab2a-a8f1-4efb-ad06-571110c76997" name="Default Changelist" comment="" />
+      <created>1621330051206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621330051206</updated>
+      <workItem from="1621330052601" duration="6136000" />
+      <workItem from="1621354287050" duration="1646000" />
+      <workItem from="1621397832906" duration="17575000" />
+      <workItem from="1621501922534" duration="1088000" />
+      <workItem from="1621505581905" duration="12036000" />
+      <workItem from="1621675538300" duration="791000" />
+      <workItem from="1621842740364" duration="1368000" />
+      <workItem from="1621844149422" duration="12099000" />
+      <workItem from="1621921687810" duration="12529000" />
+      <workItem from="1622032445573" duration="1225000" />
+      <workItem from="1622102394762" duration="100000" />
+      <workItem from="1622102714946" duration="793000" />
+      <workItem from="1622105095277" duration="3211000" />
+      <workItem from="1622112112441" duration="483000" />
+      <workItem from="1622184199488" duration="9211000" />
+      <workItem from="1622199600702" duration="1166000" />
+      <workItem from="1622450162925" duration="1027000" />
+      <workItem from="1622453947198" duration="1802000" />
+      <workItem from="1622457625743" duration="2918000" />
+      <workItem from="1622541503486" duration="8990000" />
+      <workItem from="1622552144999" duration="3816000" />
+      <workItem from="1622619703249" duration="2777000" />
+      <workItem from="1622632008745" duration="5000" />
+      <workItem from="1622697133553" duration="4493000" />
+      <workItem from="1622712824648" duration="5955000" />
+      <workItem from="1622788495106" duration="16323000" />
+      <workItem from="1622818989839" duration="5736000" />
+      <workItem from="1622886841389" duration="6490000" />
+      <workItem from="1622973262365" duration="595000" />
+      <workItem from="1623056274191" duration="10779000" />
+      <workItem from="1623128481448" duration="2231000" />
+      <workItem from="1623147375473" duration="5000" />
+      <workItem from="1623147402851" duration="34000" />
+      <workItem from="1623147440646" duration="2642000" />
+      <workItem from="1623150093981" duration="323000" />
+      <workItem from="1623150726773" duration="20729000" />
+      <workItem from="1623315809173" duration="2354000" />
+      <workItem from="1623319201260" duration="1476000" />
+      <workItem from="1623323717683" duration="1258000" />
+      <workItem from="1623393305530" duration="1675000" />
+      <workItem from="1623395114880" duration="596000" />
+      <workItem from="1623563107889" duration="60000" />
+      <workItem from="1623669701463" duration="4066000" />
+      <workItem from="1623682718746" duration="3171000" />
+      <workItem from="1623733064199" duration="4415000" />
+      <workItem from="1623743746739" duration="4128000" />
+      <workItem from="1623759757589" duration="5000" />
+      <workItem from="1623925158198" duration="10835000" />
+      <workItem from="1623996407747" duration="1936000" />
+      <workItem from="1623998595678" duration="522000" />
+      <workItem from="1624006947654" duration="1359000" />
+      <workItem from="1624008461876" duration="17083000" />
+      <workItem from="1624034698517" duration="1049000" />
+      <workItem from="1624075022187" duration="1038000" />
+      <workItem from="1624088026529" duration="721000" />
+      <workItem from="1624089004456" duration="9270000" />
+      <workItem from="1624121631404" duration="93000" />
+      <workItem from="1624173456875" duration="8289000" />
+      <workItem from="1624359969879" duration="2720000" />
+      <workItem from="1624441638231" duration="5216000" />
+      <workItem from="1624533338245" duration="295000" />
+      <workItem from="1624544147262" duration="5541000" />
+      <workItem from="1624550787936" duration="5377000" />
+      <workItem from="1624602163453" duration="16431000" />
+      <workItem from="1624956203976" duration="6297000" />
+      <workItem from="1624977571987" duration="699000" />
+      <workItem from="1625048228063" duration="4328000" />
+      <workItem from="1625219173082" duration="3000" />
+      <workItem from="1626073228751" duration="223000" />
+      <workItem from="1628155231538" duration="15774000" />
+      <workItem from="1628481939022" duration="1823000" />
+      <workItem from="1628483822582" duration="21000" />
+      <workItem from="1628485597602" duration="2633000" />
+      <workItem from="1628490310754" duration="18786000" />
+      <workItem from="1628565989080" duration="14000" />
+      <workItem from="1628567577020" duration="8709000" />
+      <workItem from="1628593678428" duration="13653000" />
+      <workItem from="1628741980620" duration="639000" />
+      <workItem from="1628742711111" duration="624000" />
+      <workItem from="1628743750768" duration="621000" />
+      <workItem from="1628745151192" duration="539000" />
+      <workItem from="1628745779982" duration="4491000" />
+      <workItem from="1628750416112" duration="17412000" />
+      <workItem from="1628854557795" duration="153000" />
+      <workItem from="1629072840508" duration="1811000" />
+      <workItem from="1629098460257" duration="9629000" />
+      <workItem from="1629109132580" duration="228000" />
+      <workItem from="1629109540228" duration="4584000" />
+      <workItem from="1629114293404" duration="95000" />
+      <workItem from="1629114392257" duration="253000" />
+      <workItem from="1629114794481" duration="32651000" />
+      <workItem from="1629440580271" duration="12357000" />
+      <workItem from="1630256411997" duration="5209000" />
+      <workItem from="1630327007182" duration="12859000" />
+      <workItem from="1630386354511" duration="3189000" />
+      <workItem from="1630389555075" duration="1035000" />
+      <workItem from="1630406814515" duration="1306000" />
+      <workItem from="1630408148378" duration="9468000" />
+      <workItem from="1630425000490" duration="296000" />
+      <workItem from="1630575297026" duration="7564000" />
+      <workItem from="1630668641737" duration="2630000" />
+      <workItem from="1630924195254" duration="1797000" />
+      <workItem from="1630927437402" duration="4575000" />
+      <workItem from="1631011171105" duration="2074000" />
+      <workItem from="1631091864248" duration="2969000" />
+      <workItem from="1631533082957" duration="11796000" />
+      <workItem from="1631590108433" duration="1368000" />
+      <workItem from="1631785363927" duration="345000" />
+      <workItem from="1632110487489" duration="3398000" />
+      <workItem from="1632154219118" duration="306000" />
+      <workItem from="1632215150477" duration="633000" />
+      <workItem from="1632386672350" duration="15165000" />
+      <workItem from="1632710171222" duration="5354000" />
+      <workItem from="1632830407411" duration="1967000" />
+      <workItem from="1632892957028" duration="20192000" />
+      <workItem from="1634211132975" duration="2088000" />
+      <workItem from="1634287428249" duration="1177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1018" y="199" width="422" height="435" key="#Web_Browsers" timestamp="1628156789244">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="1018" y="199" width="422" height="435" key="#Web_Browsers/0.25.1440.875/1440.-531.1080.1895@1440.-531.1080.1895" timestamp="1628156789244" />
+    <state x="682" y="25" width="758" height="875" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1633756568793">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="872" y="59" width="568" height="841" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.875/1440.-531.1080.1895@1440.-531.1080.1895" timestamp="1628759148942" />
+    <state x="682" y="25" width="758" height="875" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.875/1440.-67.1920.1055@1440.-67.1920.1055" timestamp="1632844518932" />
+    <state x="682" y="25" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.875@0.25.1440.875" timestamp="1633756568793" />
+    <state width="1168" height="563" key="DebuggerActiveHint" timestamp="1631534998162">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="657" height="1010" key="DebuggerActiveHint/0.25.1440.875/1440.-531.1080.1895@1440.-531.1080.1895" timestamp="1629189323944" />
+    <state width="1168" height="563" key="DebuggerActiveHint/0.25.1920.1055@0.25.1920.1055" timestamp="1631534998162" />
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom" timestamp="1633933166502">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="672" height="2" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1629073968764" />
+    <state width="1038" height="880" key="GridCell.Tab.0.bottom/0.25.1080.1895@0.25.1080.1895" timestamp="1628483795421" />
+    <state width="1038" height="719" key="GridCell.Tab.0.bottom/0.25.1440.875/-1080.-458.1080.1895@-1080.-458.1080.1895" timestamp="1630577250975" />
+    <state width="1038" height="603" key="GridCell.Tab.0.bottom/0.25.1440.875/-1080.25.1080.1895@-1080.25.1080.1895" timestamp="1625059288596" />
+    <state width="1878" height="286" key="GridCell.Tab.0.bottom/0.25.1440.875/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1624978281917" />
+    <state width="1038" height="853" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-531.1080.1895@1440.-531.1080.1895" timestamp="1629459598119" />
+    <state width="1398" height="401" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-67.1920.1055@0.25.1440.875" timestamp="1632572928382" />
+    <state width="1878" height="510" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-67.1920.1055@1440.-67.1920.1055" timestamp="1632728635931" />
+    <state width="1398" height="260" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1633933166502" />
+    <state width="1878" height="286" key="GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1631591478193" />
+    <state width="1398" height="260" key="GridCell.Tab.0.center" timestamp="1633933166502">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="672" height="2" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1629073968763" />
+    <state width="1038" height="880" key="GridCell.Tab.0.center/0.25.1080.1895@0.25.1080.1895" timestamp="1628483795420" />
+    <state width="1038" height="719" key="GridCell.Tab.0.center/0.25.1440.875/-1080.-458.1080.1895@-1080.-458.1080.1895" timestamp="1630577250974" />
+    <state width="1038" height="603" key="GridCell.Tab.0.center/0.25.1440.875/-1080.25.1080.1895@-1080.25.1080.1895" timestamp="1625059288595" />
+    <state width="1878" height="286" key="GridCell.Tab.0.center/0.25.1440.875/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1624978281916" />
+    <state width="1038" height="853" key="GridCell.Tab.0.center/0.25.1440.875/1440.-531.1080.1895@1440.-531.1080.1895" timestamp="1629459598119" />
+    <state width="1398" height="401" key="GridCell.Tab.0.center/0.25.1440.875/1440.-67.1920.1055@0.25.1440.875" timestamp="1632572928381" />
+    <state width="1878" height="510" key="GridCell.Tab.0.center/0.25.1440.875/1440.-67.1920.1055@1440.-67.1920.1055" timestamp="1632728635929" />
+    <state width="1398" height="260" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1633933166502" />
+    <state width="1878" height="286" key="GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055" timestamp="1631591478192" />
+    <state width="1398" height="260" key="GridCell.Tab.0.left" timestamp="1633933166501">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="672" height="2" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1629073968760" />
+    <state width="1038" height="880" key="GridCell.Tab.0.left/0.25.1080.1895@0.25.1080.1895" timestamp="1628483795420" />
+    <state width="1038" height="719" key="GridCell.Tab.0.left/0.25.1440.875/-1080.-458.1080.1895@-1080.-458.1080.1895" timestamp="1630577250973" />
+    <state width="1038" height="603" key="GridCell.Tab.0.left/0.25.1440.875/-1080.25.1080.1895@-1080.25.1080.1895" timestamp="1625059288594" />
+    <state width="1878" height="286" key="GridCell.Tab.0.left/0.25.1440.875/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1624978281916" />
+    <state width="1038" height="853" key="GridCell.Tab.0.left/0.25.1440.875/1440.-531.1080.1895@1440.-531.1080.1895" timestamp="1629459598118" />
+    <state width="1398" height="401" key="GridCell.Tab.0.left/0.25.1440.875/1440.-67.1920.1055@0.25.1440.875" timestamp="1632572928381" />
+    <state width="1878" height="510" key="GridCell.Tab.0.left/0.25.1440.875/1440.-67.1920.1055@1440.-67.1920.1055" timestamp="1632728635929" />
+    <state width="1398" height="260" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1633933166501" />
+    <state width="1878" height="286" key="GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055" timestamp="1631591478192" />
+    <state width="1398" height="260" key="GridCell.Tab.0.right" timestamp="1633933166502">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="672" height="2" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1629073968764" />
+    <state width="1038" height="880" key="GridCell.Tab.0.right/0.25.1080.1895@0.25.1080.1895" timestamp="1628483795421" />
+    <state width="1038" height="719" key="GridCell.Tab.0.right/0.25.1440.875/-1080.-458.1080.1895@-1080.-458.1080.1895" timestamp="1630577250974" />
+    <state width="1038" height="603" key="GridCell.Tab.0.right/0.25.1440.875/-1080.25.1080.1895@-1080.25.1080.1895" timestamp="1625059288596" />
+    <state width="1878" height="286" key="GridCell.Tab.0.right/0.25.1440.875/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1624978281917" />
+    <state width="1038" height="853" key="GridCell.Tab.0.right/0.25.1440.875/1440.-531.1080.1895@1440.-531.1080.1895" timestamp="1629459598119" />
+    <state width="1398" height="401" key="GridCell.Tab.0.right/0.25.1440.875/1440.-67.1920.1055@0.25.1440.875" timestamp="1632572928382" />
+    <state width="1878" height="510" key="GridCell.Tab.0.right/0.25.1440.875/1440.-67.1920.1055@1440.-67.1920.1055" timestamp="1632728635930" />
+    <state width="1398" height="260" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1633933166502" />
+    <state width="1878" height="286" key="GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055" timestamp="1631591478192" />
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom" timestamp="1633933166501">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1038" height="880" key="GridCell.Tab.1.bottom/0.25.1080.1895@0.25.1080.1895" timestamp="1628483795420" />
+    <state width="1038" height="489" key="GridCell.Tab.1.bottom/0.25.1440.875/-1080.-458.1080.1895@-1080.-458.1080.1895" timestamp="1630412425096" />
+    <state width="1038" height="561" key="GridCell.Tab.1.bottom/0.25.1440.875/-1080.25.1080.1895@-1080.25.1080.1895" timestamp="1625059288574" />
+    <state width="1878" height="286" key="GridCell.Tab.1.bottom/0.25.1440.875/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1624978281919" />
+    <state width="1038" height="739" key="GridCell.Tab.1.bottom/0.25.1440.875/1440.-531.1080.1895@1440.-531.1080.1895" timestamp="1629453228592" />
+    <state width="1398" height="401" key="GridCell.Tab.1.bottom/0.25.1440.875/1440.-67.1920.1055@0.25.1440.875" timestamp="1632572928380" />
+    <state width="1878" height="445" key="GridCell.Tab.1.bottom/0.25.1440.875/1440.-67.1920.1055@1440.-67.1920.1055" timestamp="1632719300165" />
+    <state width="1398" height="260" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1633933166501" />
+    <state width="1878" height="286" key="GridCell.Tab.1.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1631591478192" />
+    <state width="1398" height="260" key="GridCell.Tab.1.center" timestamp="1633933166500">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1038" height="880" key="GridCell.Tab.1.center/0.25.1080.1895@0.25.1080.1895" timestamp="1628483795419" />
+    <state width="1038" height="489" key="GridCell.Tab.1.center/0.25.1440.875/-1080.-458.1080.1895@-1080.-458.1080.1895" timestamp="1630412425095" />
+    <state width="1038" height="561" key="GridCell.Tab.1.center/0.25.1440.875/-1080.25.1080.1895@-1080.25.1080.1895" timestamp="1625059288571" />
+    <state width="1878" height="286" key="GridCell.Tab.1.center/0.25.1440.875/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1624978281918" />
+    <state width="1038" height="739" key="GridCell.Tab.1.center/0.25.1440.875/1440.-531.1080.1895@1440.-531.1080.1895" timestamp="1629453228591" />
+    <state width="1398" height="401" key="GridCell.Tab.1.center/0.25.1440.875/1440.-67.1920.1055@0.25.1440.875" timestamp="1632572928379" />
+    <state width="1878" height="445" key="GridCell.Tab.1.center/0.25.1440.875/1440.-67.1920.1055@1440.-67.1920.1055" timestamp="1632719300164" />
+    <state width="1398" height="260" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1633933166500" />
+    <state width="1878" height="286" key="GridCell.Tab.1.center/0.25.1920.1055@0.25.1920.1055" timestamp="1631591478190" />
+    <state width="1398" height="260" key="GridCell.Tab.1.left" timestamp="1633933166500">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1038" height="880" key="GridCell.Tab.1.left/0.25.1080.1895@0.25.1080.1895" timestamp="1628483795418" />
+    <state width="1038" height="489" key="GridCell.Tab.1.left/0.25.1440.875/-1080.-458.1080.1895@-1080.-458.1080.1895" timestamp="1630412425094" />
+    <state width="1038" height="561" key="GridCell.Tab.1.left/0.25.1440.875/-1080.25.1080.1895@-1080.25.1080.1895" timestamp="1625059288569" />
+    <state width="1878" height="286" key="GridCell.Tab.1.left/0.25.1440.875/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1624978281918" />
+    <state width="1038" height="739" key="GridCell.Tab.1.left/0.25.1440.875/1440.-531.1080.1895@1440.-531.1080.1895" timestamp="1629453228590" />
+    <state width="1398" height="401" key="GridCell.Tab.1.left/0.25.1440.875/1440.-67.1920.1055@0.25.1440.875" timestamp="1632572928379" />
+    <state width="1878" height="445" key="GridCell.Tab.1.left/0.25.1440.875/1440.-67.1920.1055@1440.-67.1920.1055" timestamp="1632719300164" />
+    <state width="1398" height="260" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1633933166500" />
+    <state width="1878" height="286" key="GridCell.Tab.1.left/0.25.1920.1055@0.25.1920.1055" timestamp="1631591478190" />
+    <state width="1398" height="260" key="GridCell.Tab.1.right" timestamp="1633933166501">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1038" height="880" key="GridCell.Tab.1.right/0.25.1080.1895@0.25.1080.1895" timestamp="1628483795419" />
+    <state width="1038" height="489" key="GridCell.Tab.1.right/0.25.1440.875/-1080.-458.1080.1895@-1080.-458.1080.1895" timestamp="1630412425096" />
+    <state width="1038" height="561" key="GridCell.Tab.1.right/0.25.1440.875/-1080.25.1080.1895@-1080.25.1080.1895" timestamp="1625059288574" />
+    <state width="1878" height="286" key="GridCell.Tab.1.right/0.25.1440.875/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1624978281919" />
+    <state width="1038" height="739" key="GridCell.Tab.1.right/0.25.1440.875/1440.-531.1080.1895@1440.-531.1080.1895" timestamp="1629453228592" />
+    <state width="1398" height="401" key="GridCell.Tab.1.right/0.25.1440.875/1440.-67.1920.1055@0.25.1440.875" timestamp="1632572928380" />
+    <state width="1878" height="445" key="GridCell.Tab.1.right/0.25.1440.875/1440.-67.1920.1055@1440.-67.1920.1055" timestamp="1632719300165" />
+    <state width="1398" height="260" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1633933166501" />
+    <state width="1878" height="286" key="GridCell.Tab.1.right/0.25.1920.1055@0.25.1920.1055" timestamp="1631591478191" />
+    <state x="297" y="25" key="SettingsEditor" timestamp="1633913037487">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="0" y="25" key="SettingsEditor/0.25.1440.875/-1080.-458.1080.1895@-1080.-458.1080.1895" timestamp="1630409328985" />
+    <state x="204" y="25" key="SettingsEditor/0.25.1440.875/1440.-531.1080.1895@1440.-531.1080.1895" timestamp="1628490185206" />
+    <state x="297" y="25" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1633913037487" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1624545376856">
+      <screen x="-1080" y="25" width="1080" height="1895" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.25.1440.875/-1080.25.1080.1895@-1080.25.1080.1895" timestamp="1624545376856" />
+    <state width="540" height="949" key="XDebugger.FullValuePopup" timestamp="1628589324181">
+      <screen x="1440" y="-531" width="1080" height="1895" />
+    </state>
+    <state width="540" height="949" key="XDebugger.FullValuePopup/0.25.1440.875/-1080.25.1080.1895@-1080.25.1080.1895" timestamp="1624546066417" />
+    <state width="540" height="949" key="XDebugger.FullValuePopup/0.25.1440.875/1440.-531.1080.1895@1440.-531.1080.1895" timestamp="1628589324181" />
+    <state x="-1080" y="919" width="1080" height="1066" key="dock-window-1" timestamp="1624615678869">
+      <screen x="-1080" y="25" width="1080" height="1895" />
+    </state>
+    <state x="-1080" y="919" width="1080" height="1066" key="dock-window-1/0.25.1440.875/-1080.25.1080.1895@-1080.25.1080.1895" timestamp="1624615678869" />
+    <state x="-1080" y="996" width="1080" height="924" key="dock-window-2" timestamp="1624615678874">
+      <screen x="-1080" y="25" width="1080" height="1895" />
+    </state>
+    <state x="-1080" y="996" width="1080" height="924" key="dock-window-2/0.25.1440.875/-1080.25.1080.1895@-1080.25.1080.1895" timestamp="1624615678874" />
+    <state x="9" y="27" width="1425" height="869" maximized="true" key="dock-window-3" timestamp="1624615678875">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="9" y="27" width="1425" height="869" maximized="true" key="dock-window-3/0.25.1440.875/-1080.25.1080.1895@-1080.25.1080.1895" timestamp="1624615678875" />
+    <state x="414" y="26" width="855" height="875" key="dock-window-4" timestamp="1624619575491">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="414" y="26" width="855" height="875" key="dock-window-4/0.25.1440.875/-1080.25.1080.1895@-1080.25.1080.1895" timestamp="1624619575491" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1629292843718">
+      <screen x="1440" y="-531" width="1080" height="1895" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.25.1440.875/1440.-531.1080.1895@1440.-531.1080.1895" timestamp="1629292843718" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/classes/GetMorningStarDataClass_vs1.py</url>
+          <line>145</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01.Download.py</url>
+          <line>171</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/QCRedeal.py</url>
+          <line>267</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02.QC.py</url>
+          <line>239</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04.ReCalculate.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/05.Sum.py</url>
+          <line>395</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="date_trend_adj" />
+        <watch expression="objects" />
+        <watch expression="self.funds_data_list[obj]" />
+        <watch expression="urls.keys" />
+        <watch expression="urls.keys()" />
+        <watch expression="heads_adj" />
+        <watch expression="self.institutions_heads_adj" />
+        <watch expression="funds_heads_adj" />
+        <watch expression="self.funds_heads_adj" />
+        <watch expression="self.funds_heads_adj" />
+        <watch expression="excel_file" language="Python" />
+        <watch expression="excel_file" />
+        <watch expression="excel_file" />
+        <watch expression=" excel_files" />
+        <watch expression="combine_new_df" />
+        <watch expression="x_data" />
+        <watch expression="combine_new_df" />
+        <watch expression="xlsx_df" />
+        <watch expression="combine_new_df" />
+        <watch expression="combine_new_df" />
+        <watch expression="funds_df" />
+        <watch expression="self.institutions_data_list[obj]" />
+        <watch expression="funds_save_df" />
+        <watch expression="funds_save_df" />
+        <watch expression="self.funds_QC_data" />
+        <watch expression="funds_df" />
+        <watch expression=" funds_save_df " />
+        <watch expression="funds_save_df" />
+        <watch expression="institutions_save_df.Sellers_Trend" />
+        <watch expression="self.funds_heads_adj_1 " />
+        <watch expression="self.institutions_df" />
+        <watch expression="self.funds_df" />
+        <watch expression="funds_save_df" />
+        <watch expression="self.funds_QC_data" />
+        <watch expression="funds_save_df" />
+        <watch expression="funds_df_" />
+        <watch expression="funds_df" />
+        <watch expression="self.file_df" />
+        <watch expression="funds_df" />
+        <watch expression="self.file_df" />
+        <watch expression="self.file_df" />
+        <watch expression="data_df" />
+        <watch expression="data_df" />
+        <watch expression="self.file_df" />
+        <watch expression="funds_df" />
+        <watch expression="data_df" />
+        <watch expression="data_df" />
+        <watch expression="data_df" />
+        <watch expression="data_df" />
+        <watch expression="data_df" />
+        <watch expression="data_df" />
+        <watch expression="funds_df" />
+        <watch expression="data_df.loc[m, annualized_label]" />
+        <watch expression="data_df" />
+        <watch expression="data_df" />
+        <watch expression="data_df" />
+        <watch expression="data_df" />
+        <watch expression="data_df" />
+        <watch expression="data_df" />
+        <watch expression="funds_df" />
+        <watch expression="self.funds_df " />
+        <watch expression="main_df" />
+        <watch expression="main_df" />
+        <watch expression="main_df" />
+        <watch expression="main_df" />
+        <watch expression="df1" />
+        <watch expression="df1" />
+        <watch expression="df1" />
+        <watch expression="df1" />
+        <watch expression="df1" />
+        <watch expression="df1" />
+        <watch expression="pd1" />
+        <watch expression="data_df" />
+        <watch expression="data_df" />
+        <watch expression="df1" />
+        <watch expression="data_df" />
+        <watch expression="data_df" />
+        <watch expression="df1" />
+        <watch expression="df1" />
+        <watch expression="data_df" />
+        <watch expression="data_df" />
+        <watch expression="data_df" />
+        <watch expression="funds_df" />
+        <watch expression="temp_df" />
+        <watch expression="institutions_df" />
+        <watch expression="data_df" />
+        <watch expression="funds_df" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/02_QC_py$03_Calculate.coverage" NAME="03.Calculate Coverage Results" MODIFIED="1625053665226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/non_financial_vs1_0_clean$03_Calculate.coverage" NAME="03.Calculate Coverage Results" MODIFIED="1623997786102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/02_QC_py$04_Sum.coverage" NAME="04.Sum Coverage Results" MODIFIED="1625055903891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/non_financial_vs1_0_clean$01_Download.coverage" NAME="01.Download Coverage Results" MODIFIED="1622887443808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/non_financial_vs1_0_clean$QCDataClass_vs2.coverage" NAME="QCDataClass_vs2 Coverage Results" MODIFIED="1622551913844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
+    <SUITE FILE_PATH="coverage/morningstar$ReCalculate.coverage" NAME="ReCalculate Coverage Results" MODIFIED="1632495146152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/non_financial_vs1_0_clean$02_QC.coverage" NAME="02.QC Coverage Results" MODIFIED="1623998074445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/non_financial_v1_0_clean$05_Combine.coverage" NAME="05.Combine Coverage Results" MODIFIED="1621335396410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/non_financial_vs1_0_clean$QCRedeal.coverage" NAME="QCRedeal Coverage Results" MODIFIED="1623743971855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/02_QC_py$Check_download.coverage" NAME="Check_download Coverage Results" MODIFIED="1628239129496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/02_QC_py$test.coverage" NAME="Check_download Coverage Results" MODIFIED="1624624012861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/non_financial_vs1_0_clean$04_Sum.coverage" NAME="04.Sum Coverage Results" MODIFIED="1623997909033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/morningstar$02_QC.coverage" NAME="02.QC Coverage Results" MODIFIED="1630384428994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/non_financial_vs1_0_clean$GetMorningStarDataClass_vs1.coverage" NAME="GetMorningStarDataClass_vs1 Coverage Results" MODIFIED="1622806698311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
+    <SUITE FILE_PATH="coverage/morningstar$QCRedeal.coverage" NAME="QCRedeal Coverage Results" MODIFIED="1628483092710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/morningstar$test.coverage" NAME="test Coverage Results" MODIFIED="1630409498269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/02_QC_py$QCRedeal.coverage" NAME="QCRedeal Coverage Results" MODIFIED="1628254101485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/non_financial_vs1_0_clean$05_Combine.coverage" NAME="05.Combine Coverage Results" MODIFIED="1623933766845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/non_financial_vs1_0_clean$00_URLSet.coverage" NAME="00.URLSet Coverage Results" MODIFIED="1622112206149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/non_financial_vs1_0_clean$excel.coverage" NAME="excel Coverage Results" MODIFIED="1621655524389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/usr/local/lib/python3.9/site-packages/pandas/io/formats" />
+    <SUITE FILE_PATH="coverage/morningstar$04_Sum.coverage" NAME="05.Sum Coverage Results" MODIFIED="1633707916515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/non_financial_vs1_0_clean$CalculateDataClass_vs1.coverage" NAME="CalculateDataClass_vs1 Coverage Results" MODIFIED="1621945678297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes" />
+    <SUITE FILE_PATH="coverage/02_QC_py$01_Download.coverage" NAME="01.Download Coverage Results" MODIFIED="1628229565026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/02_QC_py$02_QC.coverage" NAME="02.QC Coverage Results" MODIFIED="1628253215705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/morningstar$03_Calculate.coverage" NAME="03.Calculate Coverage Results" MODIFIED="1631543637164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
